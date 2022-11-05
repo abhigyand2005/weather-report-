@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 72px;
+}
+
+.input {
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.button {
+  font-size: 15px;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+}
+
+body{
+  background: rgb(88, 0, 140);
+  background: linear-gradient(
+    90deg,
+    rgba(88, 0, 140, 1) 0%,
+    rgba(170, 23, 203, 1) 61%,
+    rgba(178, 107, 223, 1) 100%
+  );
+}
+
+.box{
+height: 20rem;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.card{
+  height: 100%;
+  width: 15rem;
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+}
