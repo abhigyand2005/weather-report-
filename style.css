@@ -18,7 +18,7 @@
   padding: 5px;
 }
 
-.input:focus{
+.input:focus {
   border: none;
   outline: none;
 }
@@ -30,10 +30,9 @@ button {
   border: none;
   height: 30px;
   width: 60px;
-  
 }
 
-body{
+body {
   background: rgb(88, 0, 140);
   background: linear-gradient(
     90deg,
@@ -43,33 +42,31 @@ body{
   );
 }
 
-.box{
-height: 20rem;
-display: flex;
-align-items: center;
-justify-content: center;
+.box {
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.card{
+.card {
   height: 100%;
   width: 15rem;
-  font-family:Georgia, 'Times New Roman', Times, serif ;
+  font-family: Georgia, "Times New Roman", Times, serif;
   line-height: 25px;
 }
 
-.abhi{
+.abhi {
   background-color: rgb(30, 190, 249);
   width: 300px;
   border-radius: 20px;
   margin-top: 19%;
- 
+
   border: 10px rgb(255, 251, 0) solid;
-  
 }
 
-.xyz{
+.xyz {
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
